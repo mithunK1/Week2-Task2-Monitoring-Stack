@@ -1,0 +1,10 @@
+ kubectl get pods -n monitoring
+
+minikube service grafana -n monitoring
+
+http://prometheus:9090
+
+Prometheus Service Health Dashboard
+
+Prometheus Up Status
+
